@@ -7,7 +7,7 @@ var canvas;
 var canvasContextL;
 var ballX= 50;
 var ballY= 50;
-var ballSpeedX= 10;
+var ballSpeedX= 15;
 var ballSpeedY= 4;
 var player1Score= 0;
 var player2Score= 0;
